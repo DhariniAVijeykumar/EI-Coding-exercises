@@ -34,11 +34,6 @@ For this exercise, six different use cases are provided to demonstrate an unders
    - **Computer System using Facade Pattern**
    - **Overview**: Demonstrates the Facade design pattern through a simple computer system. The Facade Pattern is used to simplify interactions with complex subsystems, making it easier to start and shut down the computer.
   
-**How to Use**:
-     1. Clone the repository to your local machine.
-     2. Navigate to the project folder.
-     3. Compile the Java files.
-     4. Run the application.
 
 ## Exercise 2: Mini-Project
 
@@ -52,10 +47,11 @@ For this exercise, six different use cases are provided to demonstrate an unders
      - Task management (add, remove, view)
      - Task validation for conflicts
 
-## How to Use
-
-**Run the Application**: Start the application by running the main executable file in your development environment or terminal.
-
+**How to Use**:
+     1. Clone the repository to your local machine.
+     2. Navigate to the project folder.
+     3. Compile the Java files.
+     4. Run the application.
 
 
 
