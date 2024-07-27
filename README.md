@@ -22,16 +22,16 @@ For this exercise, six different use cases are provided to demonstrate an unders
    - **Game Object Cloning using Prototype Pattern**
    - **Overview**: Demonstrates the Prototype design pattern for cloning game objects, such as enemies and power-ups, with similar properties but different states. Using the Prototype pattern allows efficient creation of new instances without starting from scratch.
    
-   - **Printer Spooler Singleton Pattern**
+   - **Printer Spooler using Singleton Pattern**
    - **Overview**: Demonstrates the Singleton design pattern through a Printer Spooler system. The Singleton pattern ensures that there is only one instance of the Printer Spooler managing the print jobs queue.
   
 3. **Structural Design Patterns** 
    
-   - **Cake Decorator Pattern**
+   - **Cake Decorator using Decorator Pattern**
    - **Overview**: Demonstrates the Decorator design pattern using a cake ordering system. You can add decorations to a basic cake and see the updated prices.
  
   
-   - **Computer System Facade Pattern**
+   - **Computer System using Facade Pattern**
    - **Overview**: Demonstrates the Facade design pattern through a simple computer system. The Facade Pattern is used to simplify interactions with complex subsystems, making it easier to start and shut down the computer.
   
 **How to Use**:
