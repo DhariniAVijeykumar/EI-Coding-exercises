@@ -1,4 +1,4 @@
-# Printer Spooler Singleton Pattern
+# Printer Spooler using Singleton Pattern
 
 ## Overview
 
